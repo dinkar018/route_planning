@@ -1,0 +1,15 @@
+# Object files and compiled binaries
+*.o
+*.obj
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
